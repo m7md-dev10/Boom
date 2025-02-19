@@ -1,1 +1,1 @@
-console.log('hoss kos')
+console.log('hoss koso5to')
